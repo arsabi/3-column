@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
     margin: 0px;
-    padding: 20px;
+    padding: 35px;
 }
 body{
     font-family: 'Lexend Deca', sans-serif;
@@ -73,6 +73,7 @@ body{
     .container{
         flex-direction: column;
         margin: 50px 0;
+        width: fit-content;
     }
     .sedan{
         border-radius: 10px 10px 0 0;
